@@ -1,7 +1,7 @@
 package com.sunion.cursojava.jursojava;
 
 /**
- * Hello world!  PRUEBA
+ * Hello world!
  *
  */
 public class App 
